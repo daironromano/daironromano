@@ -1,7 +1,7 @@
-# 💻 Dairon Romano
+# 💻 Dairon Romano #
 
 ### 👨‍🎓 Sobre mim  
-Olá! Me chamo **Dairon Romano** e sou graduando em **Engenharia da Computação** pela **Universidade Federal do Pará - [UFPA]**. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas áreas no mundo da programação.
+Olá! Me chamo **Dairon Romano** e sou graduando em **Engenharia da Computação** pela **Universidade Federal do Pará ([UFPA](https://www.ufpa.br))**. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas áreas no mundo da programação.
 
 ### 🔧 Tecnologias e Habilidades  
 - **Linguagens principais:**  
@@ -10,7 +10,7 @@ Olá! Me chamo **Dairon Romano** e sou graduando em **Engenharia da Computação
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
 - **Interesses gerais:**  
-  Sou extrenanente curioso e gosto de aprender um pouco sobre tudo, desde novas tecnologias até conceitos básicos de crochê.
+  Sou extremamente curioso e gosto de aprender um pouco sobre tudo, desde novas tecnologias até conceitos básicos de crochê.
 
 ### 🌱 Atualmente aprendendo  
 Estou aprofundando meus conhecimentos em **desenvolvimento web** e **ciência de dados**, mas sempre aberto a explorar outras áreas que me desafiem.
@@ -20,4 +20,4 @@ Aqui no meu GitHub você encontrará projetos que variam de pequenos experimento
 
 ### 🌐 Conecte-se comigo  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daironromano)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](daironromano@gmail.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daironromano@gmail.com)  
