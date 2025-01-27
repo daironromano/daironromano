@@ -1,7 +1,7 @@
 # 💻 Dairon Romano #
 
 ## 👨‍🎓 Sobre mim  ##
-Olá! Me chamo **Dairon Romano**, graduando em **Engenharia da Computação** pela **Universidade Federal do Pará - [UFPA]**. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas áreas no mundo da programação.
+Olá! Me chamo **Dairon Romano**, graduando em **Engenharia de Computação** pela **Universidade Federal do Pará - [UFPA]**. Sou apaixonado por tecnologia e estou sempre em busca de aprender e explorar novas áreas no mundo da programação.
 
 ## 🌐 Conecte-se comigo  ##
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daironromano)  
