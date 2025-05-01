@@ -11,11 +11,7 @@ Olá! Me chamo **Dairon Romano**, graduando em **Engenharia de Computação** pe
 
 ## 🚀 Estatísticas GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daironromano&layout=donut)
-
 ![Dairon's GitHub stats](https://github-readme-stats.vercel.app/api?username=daironromano&show_icons=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=daironromano)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Projetos  ##
 Aqui no meu GitHub você encontrará projetos que variam de pequenos experimentos a ideias mais completas. Fique à vontade para explorar e contribuir!
