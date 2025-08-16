@@ -8,7 +8,7 @@ Atualmente, estou focado em:
 
 🔹 Programação e Boas Práticas – buscando melhorar meu código, aprender novas linguagens e aprofundar no back-end.
 
-🔹 Idiomas e Preparação Profissional – estudando inglês e me preparando para concursos, ampliando minhas oportunidades.
+🔹 Idiomas  – estudando inglês e me preparando para eventuais oportunidades, ampliando minhas oportunidades.
 
 🔹 Comunidade Acadêmica – participo da Liga Acadêmica de Estudantes (LADS), onde colaboro e aprendo em projetos de extensão e pesquisa.
 
